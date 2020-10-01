@@ -1,4 +1,4 @@
-# O2 Mail Sign
+# O2. Mail Signature
 
 `hexo`版本开发指南，确保本地已经安装了`hexo`，若无安装执行下面代码安装：
 
